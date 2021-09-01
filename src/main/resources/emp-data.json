@@ -1,0 +1,11 @@
+{
+	"id" : "123",
+	"name" : "Ravina",
+	"age": 26,
+	"address" : {
+		"country" : "India",
+		"state" : "Punjab",
+		"city" : "Mohali",
+		"pinCode" : 123456
+	}
+}
